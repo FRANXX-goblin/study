@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wangs\\Documents\\WeChat Files\\wxid_jfavyzgly50722\\FileStorage\\File\\2023-09\\\u9879\u76EE\\easyX\u96F7\u9706\u6218\u673A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}|easyX\u96F7\u9706\u6218\u673A.vcxproj|C:\\Users\\wangs\\Documents\\WeChat Files\\wxid_jfavyzgly50722\\FileStorage\\File\\2023-09\\\u9879\u76EE\\easyX\u96F7\u9706\u6218\u673A\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}|easyX\u96F7\u9706\u6218\u673A.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\wangs\\Documents\\WeChat Files\\wxid_jfavyzgly50722\\FileStorage\\File\\2023-09\\\u9879\u76EE\\easyX\u96F7\u9706\u6218\u673A\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "C:\\Users\\wangs\\Documents\\WeChat Files\\wxid_jfavyzgly50722\\FileStorage\\File\\2023-09\\\u9879\u76EE\\easyX\u96F7\u9706\u6218\u673A\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T02:20:11.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

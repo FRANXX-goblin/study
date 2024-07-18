@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easyX雷霆战机", "easyX雷霆战机.vcxproj", "{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Debug|x64.ActiveCfg = Debug|x64
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Debug|x64.Build.0 = Debug|x64
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Debug|x86.Build.0 = Debug|Win32
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Release|x64.ActiveCfg = Release|x64
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Release|x64.Build.0 = Release|x64
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Release|x86.ActiveCfg = Release|Win32
+		{8D9EED6D-0F27-4E0E-8849-F1159B2E014A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D21C3D5-6B30-4B44-9788-70CB85269CD4}
+	EndGlobalSection
+EndGlobal
