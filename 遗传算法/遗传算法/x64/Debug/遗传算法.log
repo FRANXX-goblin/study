@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\wangs\Documents\WeChat Files\wxid_jfavyzgly50722\FileStorage\File\2023-09\study\计算智能\遗传算法\Bin.h(175,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangs\Documents\WeChat Files\wxid_jfavyzgly50722\FileStorage\File\2023-09\study\计算智能\遗传算法\Bin.h(211,1): warning C4715: “Bin::selection”: 不是所有的控件路径都返回值
+  遗传算法.vcxproj -> C:\Users\wangs\Documents\WeChat Files\wxid_jfavyzgly50722\FileStorage\File\2023-09\study\计算智能\遗传算法\x64\Debug\遗传算法.exe
